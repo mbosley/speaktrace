@@ -8,11 +8,17 @@ This repo is the public, reusable core of a larger production workflow. It is de
 
 ## Current scope
 
-- Multi-speaker segmentation + attribution\n- Meeting timeline and event annotation\n- Speaker-aware summarization scaffolds\n- Export-friendly structured outputs
+- Multi-speaker segmentation + attribution
+- Meeting timeline and event annotation
+- Speaker-aware summarization scaffolds
+- Export-friendly structured outputs
 
 ## Near-term roadmap
 
-1. Release speaker-attribution baseline API\n2. Add meeting event taxonomy + annotation schema\n3. Add quality metrics for diarization/attribution\n4. Publish reproducible sample notebook + CLI
+1. Release speaker-attribution baseline API
+2. Add meeting event taxonomy + annotation schema
+3. Add quality metrics for diarization/attribution
+4. Publish reproducible sample notebook + CLI
 
 ## Related work
 
